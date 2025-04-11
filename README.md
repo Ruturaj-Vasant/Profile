@@ -2,6 +2,7 @@
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)
 ![PDF Access](https://img.shields.io/badge/PDFs-No%20Login%20Required-blue)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your_username.your_repo_name)
 
 Publicly accessible professional documents hosted via GitHub Pages.
 
